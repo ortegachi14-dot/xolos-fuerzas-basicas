@@ -3,7 +3,7 @@ name: Actualizar Dashboard Xolos
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 15 * * 1"
+    - cron: "0 14 * * 1"
 
 permissions:
   contents: write
