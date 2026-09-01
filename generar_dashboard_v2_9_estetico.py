@@ -108,7 +108,7 @@ comparativo=''.join(compare_row(cats[c]) for c in CATEGORIAS if c in cats)
 generales=''.join(general_block(c,cats[c]) for c in CATEGORIAS if c in cats)
 paired=''.join(paired_block(c,cats[c]) for c in CATEGORIAS if c in cats)
 
-html=f'''<!doctype html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Xolos Fuerzas Básicas — {escape(torneo)}</title><style>
+html=f'''<!doctype html><html lang="es"><head><script data-goatcounter="https://xolosfuerzasbasicas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Xolos Fuerzas Básicas — {escape(torneo)}</title><style>
 :root{{--bg:#F2F2F2;--surface:#ffffff;--surface2:#F2F2F2;--soft:#F2F2F2;--text:#0D0D0D;--muted:#8C8C8C;--line:#d4d4d4;--primary:#73030D;--primary-dark:#4f0209;--secondary:#732F3B;--secondary-soft:#eee4e6;--gray:#8C8C8C;--black:#0D0D0D;--shadow:0 12px 32px rgba(13,13,13,.09);--radius:18px}}
 *{{box-sizing:border-box}}
 html{{scroll-behavior:smooth}}
