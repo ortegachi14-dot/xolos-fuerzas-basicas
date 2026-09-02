@@ -2,34 +2,34 @@
   "metadata": {
     "torneo": "Apertura",
     "temporada": "2026",
-    "fecha_extraccion": "2026-09-01",
+    "fecha_extraccion": "2026-09-02",
     "categorias": {
       "Sub 15": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 7
+        "jornada": 8
       },
       "Sub 17": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 7
+        "jornada": 8
       },
       "Sub 19": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 6
+        "jornada": 7
       },
       "Sub 21": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 6
+        "jornada": 7
       }
     }
   },
   "comparativo_categorias": [
     {
       "categoria": "Sub 21",
-      "jornada": 6,
+      "jornada": 7,
       "grupo": null,
       "posicion": 2,
       "TPTS": 15,
@@ -45,7 +45,7 @@
     },
     {
       "categoria": "Sub 19",
-      "jornada": 6,
+      "jornada": 7,
       "grupo": null,
       "posicion": 8,
       "TPTS": 9,
@@ -61,7 +61,7 @@
     },
     {
       "categoria": "Sub 17",
-      "jornada": 7,
+      "jornada": 8,
       "grupo": "Grupo 2",
       "posicion": 3,
       "TPTS": 11,
@@ -77,25 +77,25 @@
     },
     {
       "categoria": "Sub 15",
-      "jornada": 7,
+      "jornada": 8,
       "grupo": "Grupo 2",
-      "posicion": 8,
-      "TPTS": 3,
-      "PPG": 0.6,
-      "GF_PJ": 1.4,
-      "GC_PJ": 2.6,
-      "Dif_PJ": -1.2,
-      "ranking_ofensivo": 10,
+      "posicion": 7,
+      "TPTS": 6,
+      "PPG": 1.0,
+      "GF_PJ": 1.67,
+      "GC_PJ": 2.5,
+      "Dif_PJ": -0.83,
+      "ranking_ofensivo": 7,
       "ranking_defensivo": 16,
-      "percentil_competitivo": 12.5,
-      "percentil_ofensivo": 50.0,
+      "percentil_competitivo": 25.0,
+      "percentil_ofensivo": 62.5,
       "percentil_defensivo": 25.0
     }
   ],
   "categorias": {
     "Sub 21": {
       "categoria": "Sub 21",
-      "jornada": 6,
+      "jornada": 7,
       "grupo": null,
       "posicion": 2,
       "JJ": 6,
@@ -649,7 +649,7 @@
     },
     "Sub 19": {
       "categoria": "Sub 19",
-      "jornada": 6,
+      "jornada": 7,
       "grupo": null,
       "posicion": 8,
       "JJ": 6,
@@ -1203,7 +1203,7 @@
     },
     "Sub 17": {
       "categoria": "Sub 17",
-      "jornada": 7,
+      "jornada": 8,
       "grupo": "Grupo 2",
       "posicion": 3,
       "JJ": 5,
@@ -1757,46 +1757,46 @@
     },
     "Sub 15": {
       "categoria": "Sub 15",
-      "jornada": 7,
+      "jornada": 8,
       "grupo": "Grupo 2",
-      "posicion": 8,
-      "JJ": 5,
-      "JG": 1,
+      "posicion": 7,
+      "JJ": 6,
+      "JG": 2,
       "JE": 0,
       "JP": 4,
-      "GF": 7,
-      "GC": 13,
-      "Dif": -6,
-      "PTS": 3,
+      "GF": 10,
+      "GC": 15,
+      "Dif": -5,
+      "PTS": 6,
       "PE": 0,
-      "TPTS": 3,
-      "PPG": 0.6,
-      "JG_pct": 20.0,
-      "Invicto_pct": 20.0,
-      "GF_PJ": 1.4,
-      "GC_PJ": 2.6,
-      "Dif_PJ": -1.2,
-      "ranking_ofensivo_oficial": 10,
-      "valor_ofensivo_oficial": "7",
+      "TPTS": 6,
+      "PPG": 1.0,
+      "JG_pct": 33.3,
+      "Invicto_pct": 33.3,
+      "GF_PJ": 1.67,
+      "GC_PJ": 2.5,
+      "Dif_PJ": -0.83,
+      "ranking_ofensivo_oficial": 7,
+      "valor_ofensivo_oficial": "10",
       "ranking_defensivo_oficial": 16,
-      "valor_defensivo_oficial": "13",
-      "percentil_competitivo": 12.5,
-      "percentil_ofensivo": 50.0,
+      "valor_defensivo_oficial": "15",
+      "percentil_competitivo": 25.0,
+      "percentil_ofensivo": 62.5,
       "percentil_defensivo": 25.0,
       "percentil_diferencia": 25.0,
       "promedio_liga": {
-        "PPG": 1.45,
-        "JG_pct": 37.3,
-        "Invicto_pct": 61.3,
-        "GF_PJ": 1.41,
+        "PPG": 1.48,
+        "JG_pct": 38.0,
+        "Invicto_pct": 61.7,
+        "GF_PJ": 1.43,
         "GC_PJ": 1.44,
-        "Dif_PJ": -0.03
+        "Dif_PJ": -0.01
       },
       "vs_promedio": {
-        "PPG": -0.85,
-        "GF_PJ": -0.01,
-        "GC_PJ": 1.16,
-        "Dif_PJ": -1.17
+        "PPG": -0.48,
+        "GF_PJ": 0.23,
+        "GC_PJ": 1.06,
+        "Dif_PJ": -0.82
       },
       "tabla_general": [
         {
@@ -2043,6 +2043,22 @@
           "categoria": "Sub 15",
           "grupo": "Grupo 2",
           "posicion": "7",
+          "club": "Xoloitzcuintles",
+          "JJ": "6",
+          "JG": "2",
+          "JE": "0",
+          "JP": "4",
+          "GF": "10",
+          "GC": "15",
+          "Dif": "-5",
+          "PTS": "6",
+          "PE": "0",
+          "TPTS": "6"
+        },
+        {
+          "categoria": "Sub 15",
+          "grupo": "Grupo 2",
+          "posicion": "8",
           "club": "Club Atlético de San Luis",
           "JJ": "6",
           "JG": "0",
@@ -2058,31 +2074,15 @@
         {
           "categoria": "Sub 15",
           "grupo": "Grupo 2",
-          "posicion": "8",
-          "club": "Xoloitzcuintles",
-          "JJ": "5",
-          "JG": "1",
-          "JE": "0",
-          "JP": "4",
-          "GF": "7",
-          "GC": "13",
-          "Dif": "-6",
-          "PTS": "3",
-          "PE": "0",
-          "TPTS": "3"
-        },
-        {
-          "categoria": "Sub 15",
-          "grupo": "Grupo 2",
           "posicion": "9",
           "club": "Santos Laguna",
-          "JJ": "5",
+          "JJ": "6",
           "JG": "0",
           "JE": "2",
-          "JP": "3",
-          "GF": "5",
-          "GC": "13",
-          "Dif": "-8",
+          "JP": "4",
+          "GF": "7",
+          "GC": "16",
+          "Dif": "-9",
           "PTS": "2",
           "PE": "0",
           "TPTS": "2"
@@ -2128,61 +2128,61 @@
         {
           "categoria": "Sub 15",
           "posicion": "7",
+          "club": "Xoloitzcuintles",
+          "valor": "10"
+        },
+        {
+          "categoria": "Sub 15",
+          "posicion": "8",
           "club": "América Sub 15",
           "valor": "8"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "8",
+          "posicion": "9",
           "club": "Cruz Azul Sub 15",
           "valor": "8"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "9",
+          "posicion": "10",
           "club": "Tigres",
           "valor": "7"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "10",
-          "club": "Xoloitzcuintles",
+          "posicion": "11",
+          "club": "Santos Laguna",
           "valor": "7"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "11",
+          "posicion": "12",
           "club": "Necaxa",
           "valor": "6"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "12",
+          "posicion": "13",
           "club": "Puebla",
           "valor": "6"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "13",
+          "posicion": "14",
           "club": "Gallos Blancos de Querétaro",
           "valor": "5"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "14",
+          "posicion": "15",
           "club": "FC Juárez",
           "valor": "5"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "15",
-          "club": "Club Atlético de San Luis",
-          "valor": "5"
-        },
-        {
-          "categoria": "Sub 15",
           "posicion": "16",
-          "club": "Santos Laguna",
+          "club": "Club Atlético de San Luis",
           "valor": "5"
         },
         {
@@ -2293,18 +2293,18 @@
           "categoria": "Sub 15",
           "posicion": "16",
           "club": "Xoloitzcuintles",
-          "valor": "13"
+          "valor": "15"
         },
         {
           "categoria": "Sub 15",
           "posicion": "17",
-          "club": "Santos Laguna",
-          "valor": "13"
+          "club": "Club Atlético de San Luis",
+          "valor": "16"
         },
         {
           "categoria": "Sub 15",
           "posicion": "18",
-          "club": "Club Atlético de San Luis",
+          "club": "Santos Laguna",
           "valor": "16"
         }
       ]
