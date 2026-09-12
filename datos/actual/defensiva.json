@@ -260,56 +260,56 @@
   {
     "categoria": "Sub 19",
     "posicion": "8",
-    "club": "Pachuca",
-    "valor": "9"
-  },
-  {
-    "categoria": "Sub 19",
-    "posicion": "9",
     "club": "Guadalajara",
     "valor": "9"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "10",
-    "club": "Necaxa",
-    "valor": "9"
-  },
-  {
-    "categoria": "Sub 19",
-    "posicion": "11",
+    "posicion": "9",
     "club": "América",
     "valor": "9"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "12",
+    "posicion": "10",
     "club": "Cruz Azul",
     "valor": "9"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "13",
+    "posicion": "11",
+    "club": "Pachuca",
+    "valor": "10"
+  },
+  {
+    "categoria": "Sub 19",
+    "posicion": "12",
     "club": "FC Juárez",
     "valor": "10"
   },
   {
     "categoria": "Sub 19",
+    "posicion": "13",
+    "club": "Santos Laguna",
+    "valor": "12"
+  },
+  {
+    "categoria": "Sub 19",
     "posicion": "14",
-    "club": "Club Tijuana Xoloitzcuintles de Caliente",
-    "valor": "11"
+    "club": "Necaxa",
+    "valor": "12"
   },
   {
     "categoria": "Sub 19",
     "posicion": "15",
-    "club": "Santos Laguna",
+    "club": "Club Tijuana Xoloitzcuintles de Caliente",
     "valor": "12"
   },
   {
     "categoria": "Sub 19",
     "posicion": "16",
     "club": "Gallos Blancos de Querétaro",
-    "valor": "12"
+    "valor": "13"
   },
   {
     "categoria": "Sub 19",
@@ -321,7 +321,7 @@
     "categoria": "Sub 19",
     "posicion": "18",
     "club": "Atlante",
-    "valor": "15"
+    "valor": "16"
   },
   {
     "categoria": "Sub 21",
@@ -345,7 +345,7 @@
     "categoria": "Sub 21",
     "posicion": "4",
     "club": "Club Tijuana Xoloitzcuintles de Caliente",
-    "valor": "5"
+    "valor": "6"
   },
   {
     "categoria": "Sub 21",
@@ -405,18 +405,18 @@
     "categoria": "Sub 21",
     "posicion": "14",
     "club": "Necaxa",
-    "valor": "9"
+    "valor": "11"
   },
   {
     "categoria": "Sub 21",
     "posicion": "15",
-    "club": "Gallos Blancos de Querétaro",
-    "valor": "9"
+    "club": "Club Atlético de San Luis",
+    "valor": "12"
   },
   {
     "categoria": "Sub 21",
     "posicion": "16",
-    "club": "Club Atlético de San Luis",
+    "club": "Gallos Blancos de Querétaro",
     "valor": "12"
   },
   {
