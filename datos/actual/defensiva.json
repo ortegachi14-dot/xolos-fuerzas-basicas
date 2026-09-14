@@ -20,49 +20,49 @@
   {
     "categoria": "Sub 15",
     "posicion": "4",
-    "club": "Leon",
-    "valor": "8"
-  },
-  {
-    "categoria": "Sub 15",
-    "posicion": "5",
     "club": "Necaxa",
     "valor": "8"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "6",
+    "posicion": "5",
     "club": "Pachuca",
     "valor": "8"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "7",
-    "club": "Atlante",
-    "valor": "8"
+    "posicion": "6",
+    "club": "Leon",
+    "valor": "9"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "8",
+    "posicion": "7",
     "club": "Monterrey",
     "valor": "9"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "9",
-    "club": "Cruz Azul Sub 15",
+    "posicion": "8",
+    "club": "Atlante",
     "valor": "9"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "10",
+    "posicion": "9",
     "club": "Atlas",
     "valor": "10"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "11",
+    "posicion": "10",
     "club": "PUMAS",
+    "valor": "10"
+  },
+  {
+    "categoria": "Sub 15",
+    "posicion": "11",
+    "club": "Cruz Azul Sub 15",
     "valor": "10"
   },
   {
@@ -92,20 +92,20 @@
   {
     "categoria": "Sub 15",
     "posicion": "16",
-    "club": "Santos Laguna",
-    "valor": "17"
-  },
-  {
-    "categoria": "Sub 15",
-    "posicion": "17",
     "club": "Xoloitzcuintles",
     "valor": "19"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "18",
+    "posicion": "17",
     "club": "Club Atlético de San Luis",
     "valor": "20"
+  },
+  {
+    "categoria": "Sub 15",
+    "posicion": "18",
+    "club": "Santos Laguna",
+    "valor": "21"
   },
   {
     "categoria": "Sub 17",
@@ -164,20 +164,20 @@
   {
     "categoria": "Sub 17",
     "posicion": "10",
-    "club": "Santos Laguna",
-    "valor": "9"
-  },
-  {
-    "categoria": "Sub 17",
-    "posicion": "11",
     "club": "Monterrey Sub17",
     "valor": "9"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "12",
+    "posicion": "11",
     "club": "Guadalajara Sub 17",
     "valor": "9"
+  },
+  {
+    "categoria": "Sub 17",
+    "posicion": "12",
+    "club": "Santos Laguna",
+    "valor": "10"
   },
   {
     "categoria": "Sub 17",
@@ -189,7 +189,7 @@
     "categoria": "Sub 17",
     "posicion": "14",
     "club": "León",
-    "valor": "10"
+    "valor": "11"
   },
   {
     "categoria": "Sub 17",
@@ -260,49 +260,49 @@
   {
     "categoria": "Sub 19",
     "posicion": "8",
-    "club": "Guadalajara",
-    "valor": "9"
-  },
-  {
-    "categoria": "Sub 19",
-    "posicion": "9",
     "club": "Cruz Azul",
     "valor": "9"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "10",
+    "posicion": "9",
     "club": "Pachuca",
     "valor": "10"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "11",
-    "club": "FC Juárez",
-    "valor": "10"
-  },
-  {
-    "categoria": "Sub 19",
-    "posicion": "12",
+    "posicion": "10",
     "club": "Club Atlético de San Luis",
     "valor": "11"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "13",
+    "posicion": "11",
+    "club": "Guadalajara",
+    "valor": "11"
+  },
+  {
+    "categoria": "Sub 19",
+    "posicion": "12",
     "club": "Santos Laguna",
     "valor": "12"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "14",
+    "posicion": "13",
     "club": "Necaxa",
     "valor": "12"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "15",
+    "posicion": "14",
     "club": "Club Tijuana Xoloitzcuintles de Caliente",
+    "valor": "12"
+  },
+  {
+    "categoria": "Sub 19",
+    "posicion": "15",
+    "club": "FC Juárez",
     "valor": "12"
   },
   {
@@ -350,26 +350,26 @@
   {
     "categoria": "Sub 21",
     "posicion": "5",
-    "club": "FC Juárez",
-    "valor": "6"
-  },
-  {
-    "categoria": "Sub 21",
-    "posicion": "6",
-    "club": "Santos Laguna",
-    "valor": "7"
-  },
-  {
-    "categoria": "Sub 21",
-    "posicion": "7",
     "club": "Guadalajara",
     "valor": "7"
   },
   {
     "categoria": "Sub 21",
-    "posicion": "8",
+    "posicion": "6",
     "club": "Pachuca",
     "valor": "7"
+  },
+  {
+    "categoria": "Sub 21",
+    "posicion": "7",
+    "club": "FC Juárez",
+    "valor": "7"
+  },
+  {
+    "categoria": "Sub 21",
+    "posicion": "8",
+    "club": "Santos Laguna",
+    "valor": "8"
   },
   {
     "categoria": "Sub 21",
