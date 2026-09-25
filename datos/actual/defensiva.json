@@ -32,19 +32,19 @@
   {
     "categoria": "Sub 15",
     "posicion": "6",
-    "club": "Pachuca",
-    "valor": "10"
-  },
-  {
-    "categoria": "Sub 15",
-    "posicion": "7",
     "club": "Atlas",
     "valor": "11"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "8",
+    "posicion": "7",
     "club": "Leon",
+    "valor": "11"
+  },
+  {
+    "categoria": "Sub 15",
+    "posicion": "8",
+    "club": "Pachuca",
     "valor": "11"
   },
   {
@@ -56,26 +56,26 @@
   {
     "categoria": "Sub 15",
     "posicion": "10",
-    "club": "Puebla",
-    "valor": "11"
-  },
-  {
-    "categoria": "Sub 15",
-    "posicion": "11",
     "club": "Gallos Blancos de Querétaro",
     "valor": "11"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "12",
+    "posicion": "11",
     "club": "Chivas",
     "valor": "12"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "13",
+    "posicion": "12",
     "club": "PUMAS",
     "valor": "12"
+  },
+  {
+    "categoria": "Sub 15",
+    "posicion": "13",
+    "club": "Puebla",
+    "valor": "13"
   },
   {
     "categoria": "Sub 15",
@@ -122,32 +122,32 @@
   {
     "categoria": "Sub 17",
     "posicion": "3",
-    "club": "Puebla F.C.",
-    "valor": "8"
-  },
-  {
-    "categoria": "Sub 17",
-    "posicion": "4",
     "club": "PUMAS",
     "valor": "8"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "5",
+    "posicion": "4",
     "club": "América Sub 17",
     "valor": "8"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "6",
+    "posicion": "5",
     "club": "Cruz Azul Sub 17",
     "valor": "8"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "7",
+    "posicion": "6",
     "club": "Gallos Blancos de Querétaro",
     "valor": "8"
+  },
+  {
+    "categoria": "Sub 17",
+    "posicion": "7",
+    "club": "Puebla F.C.",
+    "valor": "9"
   },
   {
     "categoria": "Sub 17",
@@ -158,13 +158,13 @@
   {
     "categoria": "Sub 17",
     "posicion": "9",
-    "club": "Monterrey Sub17",
+    "club": "Pachuca Sub 17",
     "valor": "9"
   },
   {
     "categoria": "Sub 17",
     "posicion": "10",
-    "club": "Pachuca Sub 17",
+    "club": "Monterrey Sub17",
     "valor": "9"
   },
   {
@@ -236,13 +236,13 @@
   {
     "categoria": "Sub 19",
     "posicion": "4",
-    "club": "Rayados de Monterrey",
-    "valor": "8"
+    "club": "Tigres de la UANL",
+    "valor": "9"
   },
   {
     "categoria": "Sub 19",
     "posicion": "5",
-    "club": "Tigres de la UANL",
+    "club": "Rayados de Monterrey",
     "valor": "9"
   },
   {
@@ -321,7 +321,7 @@
     "categoria": "Sub 19",
     "posicion": "18",
     "club": "Atlante",
-    "valor": "21"
+    "valor": "24"
   },
   {
     "categoria": "Sub 21",

@@ -44,20 +44,20 @@
   {
     "categoria": "Sub 15",
     "posicion": "8",
-    "club": "Cruz Azul Sub 15",
+    "club": "Pachuca",
     "valor": "14"
   },
   {
     "categoria": "Sub 15",
     "posicion": "9",
-    "club": "Atlas",
-    "valor": "13"
+    "club": "Cruz Azul Sub 15",
+    "valor": "14"
   },
   {
     "categoria": "Sub 15",
     "posicion": "10",
-    "club": "Pachuca",
-    "valor": "12"
+    "club": "Atlas",
+    "valor": "13"
   },
   {
     "categoria": "Sub 15",
@@ -75,7 +75,7 @@
     "categoria": "Sub 15",
     "posicion": "13",
     "club": "Puebla",
-    "valor": "9"
+    "valor": "10"
   },
   {
     "categoria": "Sub 15",
@@ -128,31 +128,31 @@
   {
     "categoria": "Sub 17",
     "posicion": "4",
-    "club": "América Sub 17",
+    "club": "Pachuca Sub 17",
     "valor": "13"
   },
   {
     "categoria": "Sub 17",
     "posicion": "5",
+    "club": "América Sub 17",
+    "valor": "13"
+  },
+  {
+    "categoria": "Sub 17",
+    "posicion": "6",
     "club": "Club Tijuana",
     "valor": "12"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "6",
+    "posicion": "7",
     "club": "Puebla F.C.",
     "valor": "12"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "7",
-    "club": "Necaxa",
-    "valor": "12"
-  },
-  {
-    "categoria": "Sub 17",
     "posicion": "8",
-    "club": "Pachuca Sub 17",
+    "club": "Necaxa",
     "valor": "12"
   },
   {
@@ -236,37 +236,37 @@
   {
     "categoria": "Sub 19",
     "posicion": "4",
+    "club": "Rayados de Monterrey",
+    "valor": "16"
+  },
+  {
+    "categoria": "Sub 19",
+    "posicion": "5",
     "club": "Pachuca",
     "valor": "15"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "5",
+    "posicion": "6",
     "club": "Santos Laguna",
     "valor": "15"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "6",
+    "posicion": "7",
     "club": "Universidad Nacional",
     "valor": "13"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "7",
+    "posicion": "8",
     "club": "Club Atlético de San Luis",
     "valor": "13"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "8",
-    "club": "León",
-    "valor": "13"
-  },
-  {
-    "categoria": "Sub 19",
     "posicion": "9",
-    "club": "Rayados de Monterrey",
+    "club": "León",
     "valor": "13"
   },
   {
@@ -284,19 +284,19 @@
   {
     "categoria": "Sub 19",
     "posicion": "12",
+    "club": "Atlante",
+    "valor": "11"
+  },
+  {
+    "categoria": "Sub 19",
+    "posicion": "13",
     "club": "Guadalajara",
     "valor": "10"
   },
   {
     "categoria": "Sub 19",
-    "posicion": "13",
-    "club": "Club Tijuana Xoloitzcuintles de Caliente",
-    "valor": "10"
-  },
-  {
-    "categoria": "Sub 19",
     "posicion": "14",
-    "club": "Atlante",
+    "club": "Club Tijuana Xoloitzcuintles de Caliente",
     "valor": "10"
   },
   {
