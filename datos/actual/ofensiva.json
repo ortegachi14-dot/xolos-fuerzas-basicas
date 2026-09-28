@@ -248,26 +248,26 @@
   {
     "categoria": "Sub 19",
     "posicion": "6",
-    "club": "Pachuca",
+    "club": "Universidad Nacional",
     "valor": "15"
   },
   {
     "categoria": "Sub 19",
     "posicion": "7",
-    "club": "Universidad Nacional",
-    "valor": "13"
+    "club": "Pachuca",
+    "valor": "15"
   },
   {
     "categoria": "Sub 19",
     "posicion": "8",
     "club": "Club Atlético de San Luis",
-    "valor": "13"
+    "valor": "15"
   },
   {
     "categoria": "Sub 19",
     "posicion": "9",
     "club": "León",
-    "valor": "13"
+    "valor": "14"
   },
   {
     "categoria": "Sub 19",
@@ -314,13 +314,13 @@
   {
     "categoria": "Sub 19",
     "posicion": "17",
-    "club": "Cruz Azul",
-    "valor": "4"
+    "club": "FC Juárez",
+    "valor": "5"
   },
   {
     "categoria": "Sub 19",
     "posicion": "18",
-    "club": "FC Juárez",
+    "club": "Cruz Azul",
     "valor": "4"
   },
   {
@@ -338,37 +338,37 @@
   {
     "categoria": "Sub 21",
     "posicion": "3",
-    "club": "Club Tijuana Xoloitzcuintles de Caliente",
+    "club": "León",
     "valor": "16"
   },
   {
     "categoria": "Sub 21",
     "posicion": "4",
-    "club": "León",
-    "valor": "15"
+    "club": "Club Tijuana Xoloitzcuintles de Caliente",
+    "valor": "16"
   },
   {
     "categoria": "Sub 21",
     "posicion": "5",
-    "club": "Cruz Azul",
+    "club": "Club Atlético de San Luis",
     "valor": "14"
   },
   {
     "categoria": "Sub 21",
     "posicion": "6",
+    "club": "Cruz Azul",
+    "valor": "14"
+  },
+  {
+    "categoria": "Sub 21",
+    "posicion": "7",
     "club": "Guadalajara",
     "valor": "13"
   },
   {
     "categoria": "Sub 21",
-    "posicion": "7",
-    "club": "Atlas",
-    "valor": "13"
-  },
-  {
-    "categoria": "Sub 21",
     "posicion": "8",
-    "club": "Club Atlético de San Luis",
+    "club": "Atlas",
     "valor": "13"
   },
   {
@@ -398,31 +398,31 @@
   {
     "categoria": "Sub 21",
     "posicion": "13",
-    "club": "Pachuca",
+    "club": "Necaxa",
     "valor": "9"
   },
   {
     "categoria": "Sub 21",
     "posicion": "14",
-    "club": "Tigres de la UANL",
+    "club": "Pachuca",
     "valor": "9"
   },
   {
     "categoria": "Sub 21",
     "posicion": "15",
-    "club": "Santos Laguna",
-    "valor": "8"
+    "club": "Universidad Nacional",
+    "valor": "9"
   },
   {
     "categoria": "Sub 21",
     "posicion": "16",
-    "club": "Universidad Nacional",
-    "valor": "8"
+    "club": "Tigres de la UANL",
+    "valor": "9"
   },
   {
     "categoria": "Sub 21",
     "posicion": "17",
-    "club": "Necaxa",
+    "club": "Santos Laguna",
     "valor": "8"
   },
   {
