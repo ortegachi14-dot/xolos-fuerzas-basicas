@@ -3,7 +3,7 @@
     "categoria": "Sub 15",
     "posicion": "1",
     "club": "América Sub 15",
-    "valor": "10"
+    "valor": "11"
   },
   {
     "categoria": "Sub 15",
@@ -68,20 +68,20 @@
   {
     "categoria": "Sub 15",
     "posicion": "12",
-    "club": "Atlante",
-    "valor": "18"
-  },
-  {
-    "categoria": "Sub 15",
-    "posicion": "13",
     "club": "Chivas",
     "valor": "19"
   },
   {
     "categoria": "Sub 15",
-    "posicion": "14",
+    "posicion": "13",
     "club": "Puebla",
     "valor": "19"
+  },
+  {
+    "categoria": "Sub 15",
+    "posicion": "14",
+    "club": "Atlante",
+    "valor": "21"
   },
   {
     "categoria": "Sub 15",
@@ -213,7 +213,7 @@
     "categoria": "Sub 17",
     "posicion": "18",
     "club": "Atlante",
-    "valor": "29"
+    "valor": "32"
   },
   {
     "categoria": "Sub 19",
@@ -249,7 +249,7 @@
     "categoria": "Sub 19",
     "posicion": "6",
     "club": "Pachuca",
-    "valor": "13"
+    "valor": "14"
   },
   {
     "categoria": "Sub 19",

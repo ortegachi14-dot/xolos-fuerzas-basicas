@@ -32,14 +32,14 @@
   {
     "categoria": "Sub 15",
     "posicion": "6",
-    "club": "Xoloitzcuintles",
-    "valor": "19"
+    "club": "América Sub 15",
+    "valor": "21"
   },
   {
     "categoria": "Sub 15",
     "posicion": "7",
-    "club": "América Sub 15",
-    "valor": "18"
+    "club": "Xoloitzcuintles",
+    "valor": "19"
   },
   {
     "categoria": "Sub 15",
@@ -99,7 +99,7 @@
     "categoria": "Sub 15",
     "posicion": "17",
     "club": "Atlante",
-    "valor": "7"
+    "valor": "8"
   },
   {
     "categoria": "Sub 15",
@@ -128,49 +128,49 @@
   {
     "categoria": "Sub 17",
     "posicion": "4",
-    "club": "Club Atlético de San Luis",
+    "club": "América Sub 17",
     "valor": "19"
   },
   {
     "categoria": "Sub 17",
     "posicion": "5",
-    "club": "Tigres Sub 17",
+    "club": "Club Atlético de San Luis",
     "valor": "19"
   },
   {
     "categoria": "Sub 17",
     "posicion": "6",
+    "club": "Tigres Sub 17",
+    "valor": "19"
+  },
+  {
+    "categoria": "Sub 17",
+    "posicion": "7",
     "club": "Necaxa",
     "valor": "18"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "7",
+    "posicion": "8",
     "club": "Guadalajara Sub 17",
     "valor": "18"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "8",
+    "posicion": "9",
     "club": "Club Tijuana",
     "valor": "16"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "9",
+    "posicion": "10",
     "club": "Puebla F.C.",
     "valor": "16"
   },
   {
     "categoria": "Sub 17",
-    "posicion": "10",
-    "club": "Atlas Sub 17",
-    "valor": "16"
-  },
-  {
-    "categoria": "Sub 17",
     "posicion": "11",
-    "club": "América Sub 17",
+    "club": "Atlas Sub 17",
     "valor": "16"
   },
   {
@@ -254,20 +254,20 @@
   {
     "categoria": "Sub 19",
     "posicion": "7",
-    "club": "Santos Laguna",
+    "club": "Rayados de Monterrey",
     "valor": "18"
   },
   {
     "categoria": "Sub 19",
     "posicion": "8",
-    "club": "Club Atlético de San Luis",
+    "club": "Santos Laguna",
     "valor": "18"
   },
   {
     "categoria": "Sub 19",
     "posicion": "9",
-    "club": "Rayados de Monterrey",
-    "valor": "17"
+    "club": "Club Atlético de San Luis",
+    "valor": "18"
   },
   {
     "categoria": "Sub 19",

@@ -2,17 +2,17 @@
   "metadata": {
     "torneo": "Apertura",
     "temporada": "2026",
-    "fecha_extraccion": "2026-10-18",
+    "fecha_extraccion": "2026-10-19",
     "categorias": {
       "Sub 15": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 14
+        "jornada": 15
       },
       "Sub 17": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 14
+        "jornada": 15
       },
       "Sub 19": {
         "torneo": "Apertura",
@@ -22,14 +22,14 @@
       "Sub 21": {
         "torneo": "Apertura",
         "temporada": "2026",
-        "jornada": 12
+        "jornada": 13
       }
     }
   },
   "comparativo_categorias": [
     {
       "categoria": "Sub 21",
-      "jornada": 12,
+      "jornada": 13,
       "grupo": null,
       "posicion": 3,
       "TPTS": 22,
@@ -47,7 +47,7 @@
       "categoria": "Sub 19",
       "jornada": 13,
       "grupo": null,
-      "posicion": 9,
+      "posicion": 10,
       "TPTS": 17,
       "PPG": 1.42,
       "GF_PJ": 1.33,
@@ -61,7 +61,7 @@
     },
     {
       "categoria": "Sub 17",
-      "jornada": 14,
+      "jornada": 15,
       "grupo": "Grupo 2",
       "posicion": 1,
       "TPTS": 24,
@@ -69,7 +69,7 @@
       "GF_PJ": 1.23,
       "GC_PJ": 1.15,
       "Dif_PJ": 0.08,
-      "ranking_ofensivo": 8,
+      "ranking_ofensivo": 9,
       "ranking_defensivo": 10,
       "percentil_competitivo": 100.0,
       "percentil_ofensivo": 25.0,
@@ -77,7 +77,7 @@
     },
     {
       "categoria": "Sub 15",
-      "jornada": 14,
+      "jornada": 15,
       "grupo": "Grupo 2",
       "posicion": 7,
       "TPTS": 15,
@@ -85,7 +85,7 @@
       "GF_PJ": 1.46,
       "GC_PJ": 2.0,
       "Dif_PJ": -0.54,
-      "ranking_ofensivo": 6,
+      "ranking_ofensivo": 7,
       "ranking_defensivo": 16,
       "percentil_competitivo": 25.0,
       "percentil_ofensivo": 37.5,
@@ -95,7 +95,7 @@
   "categorias": {
     "Sub 21": {
       "categoria": "Sub 21",
-      "jornada": 12,
+      "jornada": 13,
       "grupo": null,
       "posicion": 3,
       "JJ": 12,
@@ -651,7 +651,7 @@
       "categoria": "Sub 19",
       "jornada": 13,
       "grupo": null,
-      "posicion": 9,
+      "posicion": 10,
       "JJ": 12,
       "JG": 3,
       "JE": 6,
@@ -677,16 +677,16 @@
       "percentil_defensivo": 47.1,
       "percentil_diferencia": 35.3,
       "promedio_liga": {
-        "PPG": 1.5,
-        "JG_pct": 37.0,
-        "Invicto_pct": 62.6,
-        "GF_PJ": 1.4,
+        "PPG": 1.49,
+        "JG_pct": 37.1,
+        "Invicto_pct": 62.5,
+        "GF_PJ": 1.39,
         "GC_PJ": 1.4,
-        "Dif_PJ": -0.0
+        "Dif_PJ": -0.01
       },
       "vs_promedio": {
         "PPG": -0.08,
-        "GF_PJ": -0.07,
+        "GF_PJ": -0.05,
         "GC_PJ": 0.1,
         "Dif_PJ": -0.16
       },
@@ -760,13 +760,13 @@
           "grupo": null,
           "posicion": "5",
           "club": "Pachuca",
-          "JJ": "11",
+          "JJ": "12",
           "JG": "5",
           "JE": "3",
-          "JP": "3",
+          "JP": "4",
           "GF": "18",
-          "GC": "13",
-          "Dif": "5",
+          "GC": "14",
+          "Dif": "4",
           "PTS": "18",
           "PE": "3",
           "TPTS": "21"
@@ -775,6 +775,22 @@
           "categoria": "Sub 19",
           "grupo": null,
           "posicion": "6",
+          "club": "Rayados de Monterrey",
+          "JJ": "11",
+          "JG": "6",
+          "JE": "1",
+          "JP": "4",
+          "GF": "18",
+          "GC": "9",
+          "Dif": "9",
+          "PTS": "19",
+          "PE": "0",
+          "TPTS": "19"
+        },
+        {
+          "categoria": "Sub 19",
+          "grupo": null,
+          "posicion": "7",
           "club": "Puebla F.C.",
           "JJ": "12",
           "JG": "4",
@@ -790,7 +806,7 @@
         {
           "categoria": "Sub 19",
           "grupo": null,
-          "posicion": "7",
+          "posicion": "8",
           "club": "Santos Laguna",
           "JJ": "12",
           "JG": "5",
@@ -806,7 +822,7 @@
         {
           "categoria": "Sub 19",
           "grupo": null,
-          "posicion": "8",
+          "posicion": "9",
           "club": "Club Atlético de San Luis",
           "JJ": "12",
           "JG": "4",
@@ -822,7 +838,7 @@
         {
           "categoria": "Sub 19",
           "grupo": null,
-          "posicion": "9",
+          "posicion": "10",
           "club": "Club Tijuana Xoloitzcuintles de Caliente",
           "JJ": "12",
           "JG": "3",
@@ -834,22 +850,6 @@
           "PTS": "15",
           "PE": "2",
           "TPTS": "17"
-        },
-        {
-          "categoria": "Sub 19",
-          "grupo": null,
-          "posicion": "10",
-          "club": "Rayados de Monterrey",
-          "JJ": "10",
-          "JG": "5",
-          "JE": "1",
-          "JP": "4",
-          "GF": "17",
-          "GC": "9",
-          "Dif": "8",
-          "PTS": "16",
-          "PE": "0",
-          "TPTS": "16"
         },
         {
           "categoria": "Sub 19",
@@ -1020,20 +1020,20 @@
         {
           "categoria": "Sub 19",
           "posicion": "7",
-          "club": "Santos Laguna",
+          "club": "Rayados de Monterrey",
           "valor": "18"
         },
         {
           "categoria": "Sub 19",
           "posicion": "8",
-          "club": "Club Atlético de San Luis",
+          "club": "Santos Laguna",
           "valor": "18"
         },
         {
           "categoria": "Sub 19",
           "posicion": "9",
-          "club": "Rayados de Monterrey",
-          "valor": "17"
+          "club": "Club Atlético de San Luis",
+          "valor": "18"
         },
         {
           "categoria": "Sub 19",
@@ -1125,7 +1125,7 @@
           "categoria": "Sub 19",
           "posicion": "6",
           "club": "Pachuca",
-          "valor": "13"
+          "valor": "14"
         },
         {
           "categoria": "Sub 19",
@@ -1203,7 +1203,7 @@
     },
     "Sub 17": {
       "categoria": "Sub 17",
-      "jornada": 14,
+      "jornada": 15,
       "grupo": "Grupo 2",
       "posicion": 1,
       "JJ": 13,
@@ -1222,7 +1222,7 @@
       "GF_PJ": 1.23,
       "GC_PJ": 1.15,
       "Dif_PJ": 0.08,
-      "ranking_ofensivo_oficial": 8,
+      "ranking_ofensivo_oficial": 9,
       "valor_ofensivo_oficial": "16",
       "ranking_defensivo_oficial": 10,
       "valor_defensivo_oficial": "15",
@@ -1232,17 +1232,17 @@
       "percentil_diferencia": 50.0,
       "promedio_liga": {
         "PPG": 1.5,
-        "JG_pct": 37.5,
+        "JG_pct": 37.8,
         "Invicto_pct": 62.2,
         "GF_PJ": 1.27,
         "GC_PJ": 1.27,
-        "Dif_PJ": -0.0
+        "Dif_PJ": 0.0
       },
       "vs_promedio": {
         "PPG": 0.34,
         "GF_PJ": -0.04,
-        "GC_PJ": -0.12,
-        "Dif_PJ": 0.08
+        "GC_PJ": -0.11,
+        "Dif_PJ": 0.07
       },
       "tabla_general": [
         {
@@ -1297,6 +1297,22 @@
           "categoria": "Sub 17",
           "grupo": "Grupo 1",
           "posicion": "4",
+          "club": "América Sub 17",
+          "JJ": "12",
+          "JG": "5",
+          "JE": "4",
+          "JP": "3",
+          "GF": "19",
+          "GC": "8",
+          "Dif": "11",
+          "PTS": "19",
+          "PE": "1",
+          "TPTS": "20"
+        },
+        {
+          "categoria": "Sub 17",
+          "grupo": "Grupo 1",
+          "posicion": "5",
           "club": "Pachuca Sub 17",
           "JJ": "11",
           "JG": "5",
@@ -1312,7 +1328,7 @@
         {
           "categoria": "Sub 17",
           "grupo": "Grupo 1",
-          "posicion": "5",
+          "posicion": "6",
           "club": "Puebla F.C.",
           "JJ": "13",
           "JG": "5",
@@ -1328,7 +1344,7 @@
         {
           "categoria": "Sub 17",
           "grupo": "Grupo 1",
-          "posicion": "6",
+          "posicion": "7",
           "club": "Cruz Azul Sub 17",
           "JJ": "12",
           "JG": "5",
@@ -1340,22 +1356,6 @@
           "PTS": "19",
           "PE": "1",
           "TPTS": "20"
-        },
-        {
-          "categoria": "Sub 17",
-          "grupo": "Grupo 1",
-          "posicion": "7",
-          "club": "América Sub 17",
-          "JJ": "11",
-          "JG": "4",
-          "JE": "4",
-          "JP": "3",
-          "GF": "16",
-          "GC": "8",
-          "Dif": "8",
-          "PTS": "16",
-          "PE": "1",
-          "TPTS": "17"
         },
         {
           "categoria": "Sub 17",
@@ -1378,13 +1378,13 @@
           "grupo": "Grupo 1",
           "posicion": "9",
           "club": "Atlante",
-          "JJ": "12",
+          "JJ": "13",
           "JG": "0",
           "JE": "3",
-          "JP": "9",
+          "JP": "10",
           "GF": "3",
-          "GC": "29",
-          "Dif": "-26",
+          "GC": "32",
+          "Dif": "-29",
           "PTS": "3",
           "PE": "1",
           "TPTS": "4"
@@ -1556,49 +1556,49 @@
         {
           "categoria": "Sub 17",
           "posicion": "4",
-          "club": "Club Atlético de San Luis",
+          "club": "América Sub 17",
           "valor": "19"
         },
         {
           "categoria": "Sub 17",
           "posicion": "5",
-          "club": "Tigres Sub 17",
+          "club": "Club Atlético de San Luis",
           "valor": "19"
         },
         {
           "categoria": "Sub 17",
           "posicion": "6",
+          "club": "Tigres Sub 17",
+          "valor": "19"
+        },
+        {
+          "categoria": "Sub 17",
+          "posicion": "7",
           "club": "Necaxa",
           "valor": "18"
         },
         {
           "categoria": "Sub 17",
-          "posicion": "7",
+          "posicion": "8",
           "club": "Guadalajara Sub 17",
           "valor": "18"
         },
         {
           "categoria": "Sub 17",
-          "posicion": "8",
+          "posicion": "9",
           "club": "Club Tijuana",
           "valor": "16"
         },
         {
           "categoria": "Sub 17",
-          "posicion": "9",
+          "posicion": "10",
           "club": "Puebla F.C.",
           "valor": "16"
         },
         {
           "categoria": "Sub 17",
-          "posicion": "10",
-          "club": "Atlas Sub 17",
-          "valor": "16"
-        },
-        {
-          "categoria": "Sub 17",
           "posicion": "11",
-          "club": "América Sub 17",
+          "club": "Atlas Sub 17",
           "valor": "16"
         },
         {
@@ -1751,13 +1751,13 @@
           "categoria": "Sub 17",
           "posicion": "18",
           "club": "Atlante",
-          "valor": "29"
+          "valor": "32"
         }
       ]
     },
     "Sub 15": {
       "categoria": "Sub 15",
-      "jornada": 14,
+      "jornada": 15,
       "grupo": "Grupo 2",
       "posicion": 7,
       "JJ": 13,
@@ -1776,7 +1776,7 @@
       "GF_PJ": 1.46,
       "GC_PJ": 2.0,
       "Dif_PJ": -0.54,
-      "ranking_ofensivo_oficial": 6,
+      "ranking_ofensivo_oficial": 7,
       "valor_ofensivo_oficial": "19",
       "ranking_defensivo_oficial": 16,
       "valor_defensivo_oficial": "26",
@@ -1786,16 +1786,16 @@
       "percentil_diferencia": 25.0,
       "promedio_liga": {
         "PPG": 1.5,
-        "JG_pct": 36.1,
-        "Invicto_pct": 63.6,
-        "GF_PJ": 1.45,
-        "GC_PJ": 1.45,
+        "JG_pct": 36.3,
+        "Invicto_pct": 63.5,
+        "GF_PJ": 1.46,
+        "GC_PJ": 1.46,
         "Dif_PJ": 0.0
       },
       "vs_promedio": {
         "PPG": -0.35,
-        "GF_PJ": 0.01,
-        "GC_PJ": 0.55,
+        "GF_PJ": 0.0,
+        "GC_PJ": 0.54,
         "Dif_PJ": -0.54
       },
       "tabla_general": [
@@ -1820,16 +1820,16 @@
           "grupo": "Grupo 1",
           "posicion": "2",
           "club": "América Sub 15",
-          "JJ": "11",
-          "JG": "6",
+          "JJ": "12",
+          "JG": "7",
           "JE": "4",
           "JP": "1",
-          "GF": "18",
-          "GC": "10",
-          "Dif": "8",
-          "PTS": "22",
+          "GF": "21",
+          "GC": "11",
+          "Dif": "10",
+          "PTS": "25",
           "PE": "2",
-          "TPTS": "24"
+          "TPTS": "27"
         },
         {
           "categoria": "Sub 15",
@@ -1916,13 +1916,13 @@
           "grupo": "Grupo 1",
           "posicion": "8",
           "club": "Atlante",
-          "JJ": "12",
+          "JJ": "13",
           "JG": "2",
           "JE": "3",
-          "JP": "7",
-          "GF": "7",
-          "GC": "18",
-          "Dif": "-11",
+          "JP": "8",
+          "GF": "8",
+          "GC": "21",
+          "Dif": "-13",
           "PTS": "9",
           "PE": "1",
           "TPTS": "10"
@@ -2122,14 +2122,14 @@
         {
           "categoria": "Sub 15",
           "posicion": "6",
-          "club": "Xoloitzcuintles",
-          "valor": "19"
+          "club": "América Sub 15",
+          "valor": "21"
         },
         {
           "categoria": "Sub 15",
           "posicion": "7",
-          "club": "América Sub 15",
-          "valor": "18"
+          "club": "Xoloitzcuintles",
+          "valor": "19"
         },
         {
           "categoria": "Sub 15",
@@ -2189,7 +2189,7 @@
           "categoria": "Sub 15",
           "posicion": "17",
           "club": "Atlante",
-          "valor": "7"
+          "valor": "8"
         },
         {
           "categoria": "Sub 15",
@@ -2203,7 +2203,7 @@
           "categoria": "Sub 15",
           "posicion": "1",
           "club": "América Sub 15",
-          "valor": "10"
+          "valor": "11"
         },
         {
           "categoria": "Sub 15",
@@ -2268,20 +2268,20 @@
         {
           "categoria": "Sub 15",
           "posicion": "12",
-          "club": "Atlante",
-          "valor": "18"
-        },
-        {
-          "categoria": "Sub 15",
-          "posicion": "13",
           "club": "Chivas",
           "valor": "19"
         },
         {
           "categoria": "Sub 15",
-          "posicion": "14",
+          "posicion": "13",
           "club": "Puebla",
           "valor": "19"
+        },
+        {
+          "categoria": "Sub 15",
+          "posicion": "14",
+          "club": "Atlante",
+          "valor": "21"
         },
         {
           "categoria": "Sub 15",
