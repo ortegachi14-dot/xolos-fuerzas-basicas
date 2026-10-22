@@ -32400,19 +32400,19 @@
         "Sub 19": {
           "torneo": "Apertura",
           "temporada": "2026",
-          "jornada": 13
+          "jornada": 14
         },
         "Sub 21": {
           "torneo": "Apertura",
           "temporada": "2026",
-          "jornada": 13
+          "jornada": 14
         }
       }
     },
     "comparativo_categorias": [
       {
         "categoria": "Sub 21",
-        "jornada": 13,
+        "jornada": 14,
         "grupo": null,
         "posicion": 4,
         "TPTS": 22,
@@ -32428,7 +32428,7 @@
       },
       {
         "categoria": "Sub 19",
-        "jornada": 13,
+        "jornada": 14,
         "grupo": null,
         "posicion": 11,
         "TPTS": 17,
@@ -32439,7 +32439,7 @@
         "ranking_ofensivo": 10,
         "ranking_defensivo": 13,
         "percentil_competitivo": 41.2,
-        "percentil_ofensivo": 52.9,
+        "percentil_ofensivo": 47.1,
         "percentil_defensivo": 35.3
       },
       {
@@ -32478,7 +32478,7 @@
     "categorias": {
       "Sub 21": {
         "categoria": "Sub 21",
-        "jornada": 13,
+        "jornada": 14,
         "grupo": null,
         "posicion": 4,
         "JJ": 13,
@@ -33032,7 +33032,7 @@
       },
       "Sub 19": {
         "categoria": "Sub 19",
-        "jornada": 13,
+        "jornada": 14,
         "grupo": null,
         "posicion": 11,
         "JJ": 13,
@@ -33056,20 +33056,20 @@
         "ranking_defensivo_oficial": 13,
         "valor_defensivo_oficial": "21",
         "percentil_competitivo": 41.2,
-        "percentil_ofensivo": 52.9,
+        "percentil_ofensivo": 47.1,
         "percentil_defensivo": 35.3,
         "percentil_diferencia": 35.3,
         "promedio_liga": {
           "PPG": 1.49,
-          "JG_pct": 37.2,
-          "Invicto_pct": 62.4,
-          "GF_PJ": 1.38,
-          "GC_PJ": 1.39,
+          "JG_pct": 37.6,
+          "Invicto_pct": 61.9,
+          "GF_PJ": 1.39,
+          "GC_PJ": 1.4,
           "Dif_PJ": -0.01
         },
         "vs_promedio": {
-          "PPG": -0.18,
-          "GF_PJ": 0.0,
+          "PPG": -0.19,
+          "GF_PJ": -0.01,
           "GC_PJ": 0.22,
           "Dif_PJ": -0.22
         },
@@ -33174,6 +33174,22 @@
             "categoria": "Sub 19",
             "grupo": null,
             "posicion": "7",
+            "club": "Club Atlético de San Luis",
+            "JJ": "13",
+            "JG": "5",
+            "JE": "4",
+            "JP": "4",
+            "GF": "20",
+            "GC": "18",
+            "Dif": "2",
+            "PTS": "19",
+            "PE": "2",
+            "TPTS": "21"
+          },
+          {
+            "categoria": "Sub 19",
+            "grupo": null,
+            "posicion": "8",
             "club": "Santos Laguna",
             "JJ": "13",
             "JG": "5",
@@ -33189,7 +33205,7 @@
           {
             "categoria": "Sub 19",
             "grupo": null,
-            "posicion": "8",
+            "posicion": "9",
             "club": "América",
             "JJ": "13",
             "JG": "4",
@@ -33205,7 +33221,7 @@
           {
             "categoria": "Sub 19",
             "grupo": null,
-            "posicion": "9",
+            "posicion": "10",
             "club": "Puebla F.C.",
             "JJ": "13",
             "JG": "4",
@@ -33216,22 +33232,6 @@
             "Dif": "1",
             "PTS": "16",
             "PE": "3",
-            "TPTS": "19"
-          },
-          {
-            "categoria": "Sub 19",
-            "grupo": null,
-            "posicion": "10",
-            "club": "Club Atlético de San Luis",
-            "JJ": "13",
-            "JG": "4",
-            "JE": "5",
-            "JP": "4",
-            "GF": "18",
-            "GC": "18",
-            "Dif": "0",
-            "PTS": "17",
-            "PE": "2",
             "TPTS": "19"
           },
           {
@@ -33289,14 +33289,14 @@
             "club": "Gallos Blancos de Querétaro",
             "JJ": "12",
             "JG": "3",
-            "JE": "4",
-            "JP": "5",
+            "JE": "3",
+            "JP": "6",
             "GF": "11",
-            "GC": "16",
-            "Dif": "-5",
-            "PTS": "13",
+            "GC": "18",
+            "Dif": "-7",
+            "PTS": "12",
             "PE": "2",
-            "TPTS": "15"
+            "TPTS": "14"
           },
           {
             "categoria": "Sub 19",
@@ -33409,14 +33409,14 @@
           {
             "categoria": "Sub 19",
             "posicion": "8",
-            "club": "Pachuca",
-            "valor": "19"
+            "club": "Club Atlético de San Luis",
+            "valor": "20"
           },
           {
             "categoria": "Sub 19",
             "posicion": "9",
-            "club": "Club Atlético de San Luis",
-            "valor": "18"
+            "club": "Pachuca",
+            "valor": "19"
           },
           {
             "categoria": "Sub 19",
@@ -33519,13 +33519,13 @@
           {
             "categoria": "Sub 19",
             "posicion": "8",
-            "club": "Gallos Blancos de Querétaro",
-            "valor": "16"
+            "club": "Club Atlético de San Luis",
+            "valor": "18"
           },
           {
             "categoria": "Sub 19",
             "posicion": "9",
-            "club": "Club Atlético de San Luis",
+            "club": "Gallos Blancos de Querétaro",
             "valor": "18"
           },
           {
