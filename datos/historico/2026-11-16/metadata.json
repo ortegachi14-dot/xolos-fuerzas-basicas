@@ -1,0 +1,27 @@
+{
+  "torneo": "Apertura",
+  "temporada": "2026",
+  "fecha_extraccion": "2026-11-16",
+  "categorias": {
+    "Sub 15": {
+      "torneo": "Apertura",
+      "temporada": "2026",
+      "jornada": 18
+    },
+    "Sub 17": {
+      "torneo": "Apertura",
+      "temporada": "2026",
+      "jornada": 18
+    },
+    "Sub 19": {
+      "torneo": "Apertura",
+      "temporada": "2026",
+      "jornada": 17
+    },
+    "Sub 21": {
+      "torneo": "Apertura",
+      "temporada": "2026",
+      "jornada": 17
+    }
+  }
+}
